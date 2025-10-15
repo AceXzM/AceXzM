@@ -1,6 +1,12 @@
 <p align="center">
   <h3>Olá, me chamo Lucas Gabriel de Almeida!👋<h3>
   <h4>Programador de Sistemas Embarcados e Back-End</h4>
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif" 
+    width="100" 
+    style="border-radius:60px; background-color:#0a0a0a; padding:15px; margin:5px;"
+  />
+</p>
 </p>
 
 ---
@@ -63,13 +69,7 @@
 -  Desenvolvimento de **sistemas back-end** com APIs, banco de dados e integração de hardware.  
 -  **C, C++, TypeScript e JavaScript**.    
 ---
-<p align="center">
-  <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif" 
-    width="100" 
-    style="border-radius:30px; background-color:#0a0a0a; padding:20px; margin:10px;"
-  />
-</p>
+
 
 <p align="center">
   <img 
