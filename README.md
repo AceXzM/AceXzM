@@ -73,15 +73,13 @@
 -  **C, C++, TypeScript e JavaScript**.    
 ---
 
-
+<h3 align="center">📫 Entre em contato</h3>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   &nbsp; <!-- espaçamento -->
-
   <!-- Gmail -->
   <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
