@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  Programador de <strong>Sistemas Embarcados</strong> e <strong>Back-End</strong>.<br>
+</p>
 
-<!--
-**AceXzM/AceXzM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩Ferramentas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+-  Foco em **projetos de automação e sistemas embarcados**.  
+-  Desenvolvimento de **sistemas back-end** com APIs, banco de dados e integração de hardware.  
+-  **C, C++, TypeScript e JavaScript**.    
+
+---
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight" 
+       alt="Linguagens mais usadas"
+  />
+</p>
+
+---
