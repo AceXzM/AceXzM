@@ -4,8 +4,8 @@
 
 ---
 
-### 🧩Ferramentas
-<p align="left">
+<p align="center">
+  ### 🧩Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
@@ -16,8 +16,8 @@
 -  Foco em **projetos de automação e sistemas embarcados**.  
 -  Desenvolvimento de **sistemas back-end** com APIs, banco de dados e integração de hardware.  
 -  **C, C++, TypeScript e JavaScript**.    
-
 ---
+
 
 <p align="center">
   <img 
