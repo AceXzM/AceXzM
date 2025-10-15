@@ -73,7 +73,7 @@
 -  **C, C++, TypeScript e JavaScript**.    
 ---
 
-<h3 align="center">📫 Entre em contato</h3>
+<h2 align="center">📫 Entre em contato</h2>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
