@@ -73,6 +73,8 @@
 -  **C, C++, TypeScript e JavaScript**.    
 ---
 
+
+
 <h3 align="center">📫 Entre em contato</h3>
 
 <p align="center">
@@ -127,6 +129,8 @@
     </span>
   </a>
 </p>
+
+
 
 <p align="center">
   <img 
