@@ -1,5 +1,6 @@
 <p align="center">
-  <h2>Programador de <strong>Sistemas Embarcados</strong> e <strong>Back-End</strong>.<br></h2>
+  <h3>Olá, me chamo Lucas Gabriel de Almeida!<h3>
+  Programador de <strong>Sistemas Embarcados</strong> e <strong>Back-End</strong>.<br>
 </p>
 
 ---
