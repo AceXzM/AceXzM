@@ -11,6 +11,9 @@
 <p align="center">
   <h4>Programador de Sistemas Embarcados e Back-End</h4>
 </p>
+
+---    
+
 <h2 align="center">📫 Entre em contato</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
