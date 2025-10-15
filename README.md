@@ -5,7 +5,7 @@
 ---
 
 ### 🧩Ferramentas
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceXzM&layout=compact&langs_count=6&theme=tokyonight" 
        alt="Linguagens mais usadas"
   />
 </p>
