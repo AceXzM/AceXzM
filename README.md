@@ -1,5 +1,5 @@
 <p align="center">
-  Programador de <strong>Sistemas Embarcados</strong> e <strong>Back-End</strong>.<br>
+  <h2>Programador de <strong>Sistemas Embarcados</strong> e <strong>Back-End</strong>.<br></h2>
 </p>
 
 ---
