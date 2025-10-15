@@ -26,7 +26,7 @@
 
 ---
 
-### 🧩Ferramentas
+<h2 align="center">Ferramentas Utilizadas</h2>
 
 <h3 align="center">🚀 Linguagens e Tecnologias</h3>
 
