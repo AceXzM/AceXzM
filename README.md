@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <h3>Olá, me chamo Lucas Gabriel de Almeida!👋<h3>
   <h4>Programador de Sistemas Embarcados e Back-End</h4>
   <img 
