@@ -1,12 +1,14 @@
 ---
 <p align="center">
   <h3>Olá, me chamo Lucas Gabriel de Almeida!👋<h3>
+</p>
   <p align="center">
     <img 
       src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif"
-      style="border-radius:60px; background-color:#0a0a0a; padding:15px; margin:5px; max-width:500px;"
+      style="border-radius:60px; background-color:#0a0a0a; padding:15px; margin:5px; max-width:200px;"
     />
   </p>
+<p align="center">
   <h4>Programador de Sistemas Embarcados e Back-End</h4>
 </p>
 
