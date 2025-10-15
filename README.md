@@ -74,61 +74,20 @@
 ---
 
 
-
-<h3 align="center">📫 Entre em contato</h3>
-
 <p align="center">
-  <!-- 🔹 Botão LinkedIn -->
-  <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      alt="LinkedIn"
-      width="30"
-      height="30"
-      style="vertical-align:middle; margin-right:8px;"
-    />
-    <span 
-      style="
-        background-color:#0077B5;
-        color:white;
-        padding:10px 18px;
-        border-radius:30px;
-        font-weight:600;
-        font-family:Arial, sans-serif;
-        transition:0.2s;
-      "
-    >
-      LinkedIn
-    </span>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- 🔹 Espaço -->
-  <span style="margin: 0 10px;"></span>
+  &nbsp; <!-- espaçamento -->
 
-  <!-- 🔹 Botão Gmail -->
-  <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
-      alt="Gmail"
-      width="30"
-      height="30"
-      style="vertical-align:middle; margin-right:8px;"
-    />
-    <span 
-      style="
-        background-color:#D14836;
-        color:white;
-        padding:10px 18px;
-        border-radius:30px;
-        font-weight:600;
-        font-family:Arial, sans-serif;
-        transition:0.2s;
-      "
-    >
-      Gmail
-    </span>
+  <!-- Gmail -->
+  <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 
 
