@@ -63,7 +63,13 @@
 -  Desenvolvimento de **sistemas back-end** com APIs, banco de dados e integração de hardware.  
 -  **C, C++, TypeScript e JavaScript**.    
 ---
-
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1uZmp1ZXl5Y2cyYXJ1cTZ1N3c1MWo0ZW8ybDByYW1mZjI5OGFjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" 
+    width="100" 
+    style="border-radius:15px; background-color:#0a0a0a; padding:10px; margin:5px;"
+  />
+</p>
 
 <p align="center">
   <img 
