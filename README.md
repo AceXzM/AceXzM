@@ -5,7 +5,7 @@
   <p align="center">
     <img 
       src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif"
-      style="border-radius:60px; background-color:#0a0a0a; padding:15px; margin:5px; max-width:50px;"
+      style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:5px; max-width:50px;"
     />
   </p>
 <p align="center">
