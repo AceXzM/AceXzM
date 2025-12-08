@@ -8,9 +8,6 @@
     style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:10px; max-width:80px;" 
   />
 
-  <h4>Programador de Sistemas Embarcados e Back-End</h4>
-</div>
-
 <!-- Ferramentas -->
 <h2 align="center">🚀 Ferramentas Utilizadas</h2>
 <h3 align="center">Linguagens e Tecnologias</h3>
@@ -36,6 +33,7 @@
 <hr />
 <!-- Descrição -->
 <ul>
+  <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
   <li><strong>C, C++, TypeScript e JavaScript</strong></li>
