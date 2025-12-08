@@ -12,7 +12,9 @@
 </ul>
 </div>
 
+<div align="center">
 <h2 align="center">🚀 Linguagens e Ferramentas utilizadas</h2>
+</div>
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -31,9 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
 </div>
-<hr />
 
-<hr />
 <h2 align="center">📫 Entre em contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
@@ -43,8 +43,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
   </a>
 </div>
-
-<hr />
 
 <div align="center">
 <img 
