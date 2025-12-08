@@ -24,15 +24,17 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>  
   <a href="Node.js" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
+  </a>
+  <a href="Firebase" target="_blank">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/vf25d28f8fa3eb402b276b2981491ec30329502b5e6089118cc6ebe4dff7f7eb7/firebase/images/touchicon-180.png" alt="Firebase" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
+  </a>
 </div>
-
 <div>
 <h2 align="center">📫<strong>Entre em contato</strong></h2>
 </div>
