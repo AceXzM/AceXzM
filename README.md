@@ -88,8 +88,4 @@
 - **C, C++, TypeScript e JavaScript**  
 
 ---
-
-## 📊 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AceXzM&layout=compact&langs_count=6&theme=tokyonight)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceXzM&show_icons=true&theme=transparent)
