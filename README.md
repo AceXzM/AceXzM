@@ -1,4 +1,4 @@
-<!-- Introdução -->
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e21744a-4e6a-46ea-b5a2-2f22827bd83b" /><!-- Introdução -->
 <div align="left">
   <h1>Olá, me chamo Lucas Gabriel de Almeida! 👋</h1>
 </div>
@@ -30,7 +30,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>  
   <a href="Node.js" target="_blank">
-    <img src="https://plugins.jetbrains.com/files/6098/899654/icon/default.png" alt="Node.js" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
 </div>
 
