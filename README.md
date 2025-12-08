@@ -1,5 +1,5 @@
 <!-- Introdução -->
-<div align="center">
+<div align="left">
   <h3>Olá, me chamo Lucas Gabriel de Almeida! 👋</h3>
 
   <div align="left">
