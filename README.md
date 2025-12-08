@@ -1,12 +1,16 @@
-<div align="left">
-  <h1>Olá, me chamo Lucas Gabriel de Almeida! 👋</h1>
+<div align="left" style="font-family: 'Roboto', sans-serif; color: #1E90FF;">
+  <h1 style="font-weight: 300; letter-spacing: 1px;">
+    Olá, me chamo <span style="color: #00BFFF;">Lucas Gabriel de Almeida</span>! 👋
+  </h1>
 </div>
 
 <div align="left">
 <ul>
+  <li>O inicio de uma jornada...</li>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
+  <li>A cada dia aprendendo mais...</li>
 </ul>
 </div>
 
