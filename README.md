@@ -7,11 +7,13 @@
 
 <div align="left">
 <ul>
-  <li>O inicio de uma jornada...</li>
+  <h3 align="left"><strong>O inicio de uma jornada...</strong></h3>
+  
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
-  <li>A cada dia aprendendo mais...</li>
+  
+  <h3 align="left">A cada dia aprendendo mais...</h3>
 </ul>
 </div>
 
