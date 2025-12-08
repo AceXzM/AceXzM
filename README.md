@@ -32,12 +32,14 @@
 
 <hr />
 <!-- Descrição -->
+<div align=left>
 <ul>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
   <li><strong>C, C++, TypeScript e JavaScript</strong></li>
 </ul>
+</div>
 
 <hr />
 <!-- Contato -->
