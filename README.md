@@ -40,10 +40,10 @@
   </a>
 </div>
 <div>
-<h2 align="left">📫<strong>Entre em contato</strong></h2>
+<h2 align="center">📫<strong>Entre em contato</strong></h2>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
   </a> 
