@@ -4,8 +4,6 @@
   </h1>
 </div>
 
-<h3 align="left"><strong>O inicio de uma jornada...</strong></h3>
-
 <div align="left">
 <ul>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
