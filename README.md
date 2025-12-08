@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e21744a-4e6a-46ea-b5a2-2f22827bd83b" /><!-- Introdução -->
 <div align="left">
   <h1>Olá, me chamo Lucas Gabriel de Almeida! 👋</h1>
 </div>
