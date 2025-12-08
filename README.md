@@ -12,8 +12,8 @@
 </ul>
 </div>
 
-<div align="left">
-<h2 align="left">🚀 <strong>Linguagens e Ferramentas utilizadas</strong></h2>
+<div align="center">
+<h2 align="center">🚀 <strong>Linguagens e Ferramentas utilizadas</strong></h2>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
