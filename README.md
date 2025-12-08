@@ -13,10 +13,7 @@
 </div>
 
 <div align="center">
-<h2 align="center">🚀 Linguagens e Ferramentas utilizadas</h2>
-</div>
-
-<div align="center">
+<h2 align="center">🚀 <strong>Linguagens e Ferramentas utilizadas</strong></h2>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
@@ -31,11 +28,16 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
+  </a>  
+  <a href="Node.js" target="_blank">
+    <img src="https://plugins.jetbrains.com/files/6098/899654/icon/default.png" alt="Node.js" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
 </div>
+
 <div>
-<h2 align="center">📫 Entre em contato</h2>
+<h2 align="center">📫<strong>Entre em contato</strong></h2>
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
