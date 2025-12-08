@@ -1,7 +1,6 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 <div align="left" style="font-family: 'Roboto', sans-serif; color: #1E90FF;">
   <h1 style="font-weight: 300; letter-spacing: 1px;">
-    Olá, me chamo <span style="color: #00BFFF;">Lucas Gabriel de Almeida</span>! 👋
+    Olá, me chamo <span style="color: ##000080;">Lucas Gabriel de Almeida</span>! 👋
   </h1>
 </div>
 
