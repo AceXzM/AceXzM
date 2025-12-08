@@ -10,8 +10,8 @@
 </ul>
 </div>
 
-<div align="center">
-<h2 align="center">🚀 <strong>Linguagens e Ferramentas utilizadas</strong></h2>
+<div align="left">
+<h2 align="left">🚀 <strong>Linguagens e Ferramentas utilizadas</strong></h2>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
@@ -35,13 +35,13 @@
   </a>
 </div>
 <div>
-<h2 align="center">📫<strong>Entre em contato</strong></h2>
+<h2 align="left">📫<strong>Entre em contato</strong></h2>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
-  </a>
+  </a> 
   <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
   </a>
