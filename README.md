@@ -2,11 +2,14 @@
 <div align="center">
   <h3>Olá, me chamo Lucas Gabriel de Almeida! 👋</h3>
 
-  <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif" 
-    alt="Lucas Gif" 
-    style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:10px; max-width:80px;" 
-  />
+  <div align="left">
+<ul>
+  <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
+  <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
+  <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
+  <li><strong>C, C++, TypeScript e JavaScript</strong></li>
+</ul>
+</div>
 
 <!-- Ferramentas -->
 <h2 align="center">🚀 Ferramentas Utilizadas</h2>
@@ -29,20 +32,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;" />
   </a>
 </div>
+<hr />
 
 <hr />
-<!-- Descrição -->
-<div align="left">
-<ul>
-  <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
-  <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
-  <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
-  <li><strong>C, C++, TypeScript e JavaScript</strong></li>
-</ul>
-</div>
-
-<hr />
-<!-- Contato -->
 <h2 align="center">📫 Entre em contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
@@ -54,3 +46,9 @@
 </div>
 
 <hr />
+
+<img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif" 
+    alt="Lucas Gif" 
+    style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:10px; max-width:80px;" 
+  />
