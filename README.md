@@ -90,7 +90,6 @@
 ---
 
 ## 📊 Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AceXzM&layout=compact&langs_count=6&theme=tokyonight)
 
-<p align="center">
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AceXzM&layout=compact&langs_count=6&theme=tokyonight)
-</p>
+
