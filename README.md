@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  **Programador de Sistemas Embarcados e Back-End**
+  <strong>Programador de Sistemas Embarcados e Back-End</strong>
 </p>
 
 ---
