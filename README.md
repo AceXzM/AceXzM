@@ -54,9 +54,6 @@
 </ul>
 
 <hr style="border:1px solid #2e2e3a;" />
-
-<h2 align="center">📊 Estatísticas e Joguinho da Cobrinha</h2>
 <div align="center">
-  <p>Seus commits no GitHub em estilo joguinho da cobra 🎮</p>
   <img src="https://github.com/AceXzM/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
