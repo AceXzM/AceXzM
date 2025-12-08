@@ -54,7 +54,7 @@
 
 <hr />
 
-<h3 align="left">A cada dia aprendendo mais...</h3>
+<h3 align="center">A cada dia aprendendo mais...</h3>
 
 <div align="center">
 <img 
