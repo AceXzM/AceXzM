@@ -1,8 +1,9 @@
 <!-- Introdução -->
 <div align="left">
-  <h3>Olá, me chamo Lucas Gabriel de Almeida! 👋</h3>
+  <h1>Olá, me chamo Lucas Gabriel de Almeida! 👋</h1>
+</div>
 
-  <div align="left">
+<div align="left">
 <ul>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
@@ -11,9 +12,7 @@
 </ul>
 </div>
 
-<!-- Ferramentas -->
-<h2 align="center">🚀 Ferramentas Utilizadas</h2>
-<h3 align="center">Linguagens e Tecnologias</h3>
+<h2 align="center">🚀 Linguagens e Ferramentas utilizadas</h2>
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -47,8 +46,10 @@
 
 <hr />
 
+<div align="center">
 <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZGN5bmh0dG95ZDc4cDQyZWs4ZWJhYTI0b3hvaHl2M2VtdHNqOXR1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b018SvPzAauSrfr2X8/giphy-downsized-medium.gif" 
+    src="https://i.pinimg.com/736x/48/06/28/4806281eb51778bda242a5bb90284a97.jpg" 
     alt="Lucas Gif" 
     style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:10px; max-width:80px;" 
   />
+</div>
