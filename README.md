@@ -10,7 +10,7 @@
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
 </ul>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
   </a> 
