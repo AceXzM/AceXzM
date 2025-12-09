@@ -4,6 +4,8 @@
   </h1>
 </div>
 
+<hr/>
+
 <div align="left">
 <ul>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
