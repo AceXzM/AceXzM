@@ -15,7 +15,8 @@
 <div align="center">
 <h2 align="center">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h2>
 </div>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<h3>Linguagens de programação</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <div style="
@@ -73,9 +74,12 @@
     </div>
   </a>
 
-<h3>Tecnologias e frameworks</h3>
+</div>
 
- <a href="Node.js" target="_blank">
+<h3>Tecnologias e frameworks</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
+
+  <a href="Node.js" target="_blank">
     <div style="
       background:#111;
       border-radius:12px;
@@ -103,9 +107,12 @@
     </div>
   </a>
 
-<h3>Banco de dados</h3>
+</div>
 
- <a href="https://www.mysql.com/" target="_blank">
+<h3>Banco de dados</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
+
+  <a href="https://www.mysql.com/" target="_blank">
     <div style="
       background:#111;
       border-radius:12px;
