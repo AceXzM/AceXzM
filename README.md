@@ -1,7 +1,7 @@
 <div align="left" style="font-family: 'Roboto', sans-serif; color: #1E90FF;">
-  <h1 style="font-weight: 200; letter-spacing: 1px;">
+  <h2 style="font-weight: 200; letter-spacing: 1px;">
     Olá, me chamo <span style="color: ##000080;">Lucas Gabriel de Almeida</span>! 👋
-  </h1>
+  </h2>
 </div>
 
 <div align="left">
