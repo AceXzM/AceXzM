@@ -15,92 +15,125 @@
 <div align="center">
 <h2 align="center">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h2>
 </div>
-<div style="display:flex; flex-wrap:wrap; align-items:center; gap:10px;">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    alt="C"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<a href="https://isocpp.org/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    alt="C++"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    </div>
+  </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+  <a href="https://isocpp.org/" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    </div>
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    </div>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    </div>
+  </a>
 
 <h3>Tecnologias e frameworks</h3>
 
-<a href="Node.js" target="_blank">
-  <img
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
-    alt="Node.js"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+ <a href="Node.js" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="40" height="40" />
+    </div>
+  </a>
 
-<a href="express" target="_blank">
-  <img
-    src="https://img.icons8.com/color/512/express-js.png"
-    alt="express"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+  <a href="express" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://img.icons8.com/color/512/express-js.png" alt="express" width="40" height="40" />
+    </div>
+  </a>
 
 <h3>Banco de dados</h3>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    alt="MySQL"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+ <a href="https://www.mysql.com/" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+    </div>
+  </a>
 
-<a href="Firebase" target="_blank">
-  <img
-    src="https://www.gstatic.com/devrel-devsite/prod/vf25d28f8fa3eb402b276b2981491ec30329502b5e6089118cc6ebe4dff7f7eb7/firebase/images/touchicon-180.png"
-    alt="Firebase"
-    width="60"
-    height="60"
-    style="background-color:#0a0a0a; border-radius:15px; padding:10px; margin:5px;"
-  />
-</a>
+  <a href="Firebase" target="_blank">
+    <div style="
+      background:#111;
+      border-radius:12px;
+      padding:12px;
+      width:60px;
+      height:60px;
+      display:flex;
+      justify-content:center;
+      align-items:center;">
+      <img src="https://www.gstatic.com/devrel-devsite/prod/vf25d28f8fa3eb402b276b2981491ec30329502b5e6089118cc6ebe4dff7f7eb7/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40" />
+    </div>
+  </a>
 
-<div>
+</div>
 <h2 align="center">📫<strong>Entre em contato</strong></h2>
 </div>
 
