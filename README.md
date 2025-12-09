@@ -4,8 +4,6 @@
   </h1>
 </div>
 
-<hr/>
-
 <div align="left">
 <ul>
   <li><strong>Programador de Sistema Embarcados e Backend</strong></li>
@@ -13,6 +11,8 @@
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
 </ul>
 </div>
+
+<hr/>
 
 <div align="center">
 <h4 align="left">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h4>
