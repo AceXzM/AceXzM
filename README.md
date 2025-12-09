@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://www.arduino.cc/en/software" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" alt="Arduino IDE" width="60" height="60"
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBR1mpxxSHRjAeQKNY.14SpGglSw9Q_T17Vj6iz5SLNOCf__D3E7g2HXS_dGjwUnSQiy8CMy2I7RwP_CyVWBj74g-&format=source" alt="Arduino IDE" width="60" height="60"
        style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
 </a>
 </div>
