@@ -23,9 +23,9 @@
 <hr/>
 
 <div align="center">
-<h4 align="left">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h4>
+<h3 align="left">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h3>
 </div>
-<h5>Linguagens de programação</h5>
+<h4>Linguagens de programação</h4>
 <p>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h5>Tecnologias e frameworks</h5>
+<h4>Tecnologias e frameworks</h4>
 <p>
   <a href="Node.js" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="60" height="60"
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<h5>Banco de dados</h5>
+<h4>Banco de dados</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"
