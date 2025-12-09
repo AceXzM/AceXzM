@@ -73,6 +73,18 @@
          style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
   </a>
 </p>
+
+<h4>Ferramentas</h4>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"
+       style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
+</a>
+
+<a href="https://www.arduino.cc/en/software" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Logo.svg" alt="Arduino IDE" width="60" height="60"
+       style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
+</a>
 </div>
 
 <hr />
