@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<h2 align="center">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h2>
+<h2 align="left">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h2>
 </div>
 <h3>Linguagens de programação</h3>
 <p>
