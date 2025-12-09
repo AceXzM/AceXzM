@@ -1,5 +1,5 @@
 <div align="left" style="font-family: 'Roboto', sans-serif; color: #1E90FF;">
-  <h1 style="font-weight: 300; letter-spacing: 1px;">
+  <h1 style="font-weight: 200; letter-spacing: 1px;">
     Olá, me chamo <span style="color: ##000080;">Lucas Gabriel de Almeida</span>! 👋
   </h1>
 </div>
@@ -10,6 +10,14 @@
   <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
   <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
 </ul>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
+  </a> 
+  <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
+  </a>
+</div>
 </div>
 
 <hr/>
@@ -65,17 +73,6 @@
          style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
   </a>
 </p>
-</div>
-<h2 align="center">📫<strong>Entre em contato</strong></h2>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
-  </a> 
-  <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
-  </a>
 </div>
 
 <hr />
