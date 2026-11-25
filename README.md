@@ -6,12 +6,19 @@ Sou um desenvolvedor apaixonado por tecnologia, automação e desenvolvimento de
 Meu foco está na criação de sistemas embarcados, projetos de automação e aplicações backend, integrando hardware, software, APIs e bancos de dados.
 
 🚀 Sobre mim
+
 🔧 Desenvolvimento de sistemas embarcados e microcontroladores.
+
 ⚙️ Projetos de automação e integração entre hardware e software.
+
 🌐 Desenvolvimento backend com APIs e serviços.
+
 🗄️ Modelagem, gerenciamento e integração de bancos de dados.
+
 📚 Sempre aprendendo e explorando novas tecnologias.
+
 🛠️ Tecnologias e ferramentas
+
 💻 Linguagens de programação
 
 <div align="left">
