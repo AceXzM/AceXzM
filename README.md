@@ -1,9 +1,8 @@
 👋 Olá! Eu sou Lucas Gabriel de Almeida
 💻 Desenvolvedor de Sistemas Embarcados | Microcontroladores | Backend
 
-Sou um desenvolvedor apaixonado por tecnologia, automação e desenvolvimento de soluções inteligentes.
 
-Meu foco está na criação de sistemas embarcados, projetos de automação e aplicações backend, integrando hardware, software, APIs e bancos de dados.
+Meu foco está na criação de sistemas embarcados, projetos de automação, robótica aplicadae aplicações backend, integrando hardware, software, APIs, bancos de dados e programação de robôs FANUC.
 
 🚀 Sobre mim
 
