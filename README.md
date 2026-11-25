@@ -1,100 +1,73 @@
-<div align="left" style="font-family: 'Roboto', sans-serif; color: #1E90FF;">
-  <h2 style="font-weight: 200; letter-spacing: 1px;">
-    Olá, me chamo <span style="color: ##000080;">Lucas Gabriel de Almeida</span>! 👋
-  </h2>
-</div>
+👋 Olá! Eu sou Lucas Gabriel de Almeida
+💻 Desenvolvedor de Sistemas Embarcados | Microcontroladores | Backend
+
+Sou um desenvolvedor apaixonado por tecnologia, automação e desenvolvimento de soluções inteligentes.
+
+Meu foco está na criação de sistemas embarcados, projetos de automação e aplicações backend, integrando hardware, software, APIs e bancos de dados.
+
+🚀 Sobre mim
+🔧 Desenvolvimento de sistemas embarcados e microcontroladores.
+⚙️ Projetos de automação e integração entre hardware e software.
+🌐 Desenvolvimento backend com APIs e serviços.
+🗄️ Modelagem, gerenciamento e integração de bancos de dados.
+📚 Sempre aprendendo e explorando novas tecnologias.
+🛠️ Tecnologias e ferramentas
+💻 Linguagens de programação
 
 <div align="left">
-<ul>
-  <li><strong>Programador de Sistemas Embarcados, Microcontroladores e Backend</strong></li>
-  <li>Foco em <strong>projetos de automação e sistemas embarcados</strong></li>
-  <li>Desenvolvimento de <strong>sistemas back-end</strong> com APIs, banco de dados e integração de hardware</li>
-</ul>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+</div>
+
+⚙️ Backend e frameworks
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+🗄️ Banco de dados
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</div>
+
+🔌 Sistemas embarcados e ferramentas
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=arduino,vscode,git,github" />
+</div>
+
+📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
-  </a> 
-  <a href="mailto:gabrielalmeidalucas12@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin:5px;" />
-  </a>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 </div>
 
-<hr/>
+📈 Atividade no GitHub
 
 <div align="center">
-<h3 align="left">🚀<strong>Linguagens e Ferramentas utilizadas</strong></h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
 </div>
-<h4>Linguagens de programação</h4>
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
+🌐 Vamos nos conectar?
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-</p>
-
-<h4>Tecnologias e frameworks</h4>
-<p>
-  <a href="Node.js" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-
-  <a href="express" target="_blank">
-    <img src="https://img.icons8.com/color/512/express-js.png" alt="express" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-</p>
-
-<h4>Banco de dados</h4>
-<p>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-
-  <a href="Firebase" target="_blank">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/vf25d28f8fa3eb402b276b2981491ec30329502b5e6089118cc6ebe4dff7f7eb7/firebase/images/touchicon-180.png" alt="Firebase" width="60" height="60"
-         style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
-  </a>
-</p>
-
-<h4>Ferramentas</h4>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"
-       style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
+<div align="center">
+<a href="https://www.linkedin.com/in/lucas-gabriel-de-almeida-54757b302">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.arduino.cc/en/software" target="_blank">
-  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBR1mpxxSHRjAeQKNY.14SpGglSw9Q_T17Vj6iz5SLNOCf__D3E7g2HXS_dGjwUnSQiy8CMy2I7RwP_CyVWBj74g-&format=source" alt="Arduino IDE" width="60" height="60"
-       style="background:#111; border-radius:12px; padding:10px; margin:5px; vertical-align:middle;" />
+<a href="mailto:gabrielalmeidalucas12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
 
-<hr />
-
-<h3 align="center">A cada dia aprendendo mais...</h3>
-
 <div align="center">
-<img 
-    src="https://i.pinimg.com/736x/48/06/28/4806281eb51778bda242a5bb90284a97.jpg" 
-    alt="Lucas Gif" 
-    style="border-radius:30px; background-color:#0a0a0a; padding:15px; margin:10px; max-width:80px;" 
-  />
+
+✨ "A cada dia aprendendo mais..."
+
+<img src="https://i.pinimg.com/736x/48/06/28/4806281eb51778bda242a5bb90284a97.jpg" width="180" alt="Animação de programação"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet" alt="Visualizações do perfil"/>
+
 </div>
