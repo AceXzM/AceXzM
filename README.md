@@ -36,17 +36,17 @@ Meu foco está na criação de sistemas embarcados, projetos de automação e ap
 <img src="https://skillicons.dev/icons?i=arduino,vscode,git,github" />
 </div>
 
-📊 GitHub Analytics
+📊 GitHub
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AceXzM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceXzM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"/>
 </div>
 
 📈 Atividade no GitHub
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AceXzM&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
 </div>
 
 🌐 Vamos nos conectar?
@@ -64,10 +64,7 @@ Meu foco está na criação de sistemas embarcados, projetos de automação e ap
 
 ✨ "A cada dia aprendendo mais..."
 
-<img src="https://i.pinimg.com/736x/48/06/28/4806281eb51778bda242a5bb90284a97.jpg" width="180" alt="Animação de programação"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=AceXzM&style=for-the-badge&color=blueviolet" alt="Visualizações do perfil"/>
 
 </div>
